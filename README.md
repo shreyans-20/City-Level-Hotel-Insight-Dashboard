@@ -5,6 +5,7 @@ An interactive Power BI dashboard analyzing hotel booking patterns, city-wise sp
 ---
 
 ## 🎯 Objective
+![Uploading Screenshot 2026-04-05 132033.png…]()
 
 Corporate travel teams managing bookings across multiple cities rarely have a unified view of where money is going, which destinations are overpriced, and how travel purpose affects accommodation costs.
 
