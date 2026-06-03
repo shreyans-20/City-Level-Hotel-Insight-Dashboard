@@ -1,6 +1,7 @@
 # City-Level Hotel Insight Dashboard
 
 An interactive Power BI dashboard analyzing hotel booking patterns, city-wise spending behavior, and accommodation demand — built during my internship at TripTrip India to support travel cost optimization and location-based planning.
+
 <img width="1587" height="912" alt="Screenshot 2026-04-05 132033" src="https://github.com/user-attachments/assets/d0d4bfb8-5109-4a26-b98b-7f89418266ce" />
 ---
 
